@@ -3,7 +3,6 @@
   "devCommand": "next dev",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "nodeVersion": "18.17.0",
   "env": {
     "NEXT_PUBLIC_APP_URL": "@next_public_app_url"
   }
