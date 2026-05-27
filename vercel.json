@@ -2,8 +2,5 @@
   "buildCommand": "next build",
   "devCommand": "next dev",
   "installCommand": "npm install",
-  "framework": "nextjs",
-  "env": {
-    "NEXT_PUBLIC_APP_URL": "@next_public_app_url"
-  }
+  "framework": "nextjs"
 }
