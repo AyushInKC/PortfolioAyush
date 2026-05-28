@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Calendar, Briefcase, Trophy } from 'lucide-react';
+import { Calendar, Briefcase} from 'lucide-react';
 
 const Experience = () => {
   const experiences = [

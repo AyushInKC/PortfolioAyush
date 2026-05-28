@@ -26,21 +26,21 @@ const Navigation = () => {
     { name: 'Contact', href: '#contact' },
   ];
 
-  const containerVariants = {
-    hidden: { opacity: 0 },
-    visible: {
-      opacity: 1,
-      transition: {
-        staggerChildren: 0.1,
-        delayChildren: 0.2,
-      },
-    },
-  };
+  // const containerVariants = {
+  //   hidden: { opacity: 0 },
+  //   visible: {
+  //     opacity: 1,
+  //     transition: {
+  //       staggerChildren: 0.1,
+  //       delayChildren: 0.2,
+  //     },
+  //   },
+  // };
 
-  const itemVariants = {
-    hidden: { opacity: 0, x: -20 },
-    visible: { opacity: 1, x: 0 },
-  };
+  // const itemVariants = {
+  //   hidden: { opacity: 0, x: -20 },
+  //   visible: { opacity: 1, x: 0 },
+  // };
 
   return (
     <motion.nav
